@@ -1,0 +1,19 @@
+@charset "utf-8";
+body{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 100%;
+    background: lightblue;
+}
+table{
+	caption-side: right;
+	table-layout: auto;
+    background: burlywood;
+	border-spacing: 5px;
+	border-collapse: eparate;
+}
+thead{
+    color: brown;
+}
+h1, h2, h3{
+    color: dodgerblue;
+}
